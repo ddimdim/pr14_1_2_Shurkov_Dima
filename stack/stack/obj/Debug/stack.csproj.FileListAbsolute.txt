@@ -1,0 +1,14 @@
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_14\stack\stack\bin\Debug\stack.exe.config
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_14\stack\stack\bin\Debug\stack.exe
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_14\stack\stack\bin\Debug\stack.pdb
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_14\stack\stack\obj\Debug\stack.csproj.AssemblyReference.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_14\stack\stack\obj\Debug\stack.csproj.CoreCompileInputs.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_14\stack\stack\obj\Debug\stack.exe
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_14\stack\stack\obj\Debug\stack.pdb
+C:\Users\305-5\Desktop\Шурков\prakt_14\stack\stack\obj\Debug\stack.csproj.AssemblyReference.cache
+C:\Users\305-5\Desktop\Шурков\prakt_14\stack\stack\obj\Debug\stack.csproj.CoreCompileInputs.cache
+C:\Users\305-5\Desktop\Шурков\prakt_14\stack\stack\obj\Debug\stack.exe
+C:\Users\305-5\Desktop\Шурков\prakt_14\stack\stack\obj\Debug\stack.pdb
+C:\Users\305-5\Desktop\Шурков\prakt_14\stack\stack\bin\Debug\stack.exe.config
+C:\Users\305-5\Desktop\Шурков\prakt_14\stack\stack\bin\Debug\stack.exe
+C:\Users\305-5\Desktop\Шурков\prakt_14\stack\stack\bin\Debug\stack.pdb
